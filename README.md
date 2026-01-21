@@ -70,7 +70,7 @@ Brand, Model, Model Year, Engine Volume, Engine Type, Transmission, Fuel Type, E
 ### 4. Model Development & Hyperparameter Tuning ([`model_hyperparameter_tuning.ipynb`](model_hyperparameter_tuning.ipynb))
 This notebook performs extensive hyperparameter optimization using Optuna.
 **⚠️ Note:** This notebook was executed in **Google Colab** due to intensive computational requirements for hyperparameter optimization.
-![Open complete model_hyperparameter_tuning.ipynb in colab](https://colab.research.google.com/drive/1IVID0iNZe3tGoVCtIyQKlGQlA03FAGTF?usp=sharing)
+[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg](https://colab.research.google.com/drive/1IVID0iNZe3tGoVCtIyQKlGQlA03FAGTF?usp=sharing))]
 
 **Models Implemented:**
 - Linear and Regualarized Linear Models
