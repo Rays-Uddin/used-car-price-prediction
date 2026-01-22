@@ -142,14 +142,14 @@ Since the original notebook uses Google Drive, follow these steps to use `model_
 
 ### Best Hyperparameters (SVR Model)
 ```json
-{
-  "smoothing": 1.9872974219495898,
-  "kernel": "linear",
-  "degree": 1,
-  "gamma": 0.00274552559906995,
-  "tol": 0.0003713971940428087,
-  "C": 6.553865827463084,
-  "epsilon": 0.05900718360099283
+"best_params": {
+    "smoothing": 0.4189992117346143,
+    "kernel": "rbf",
+    "degree": 3,
+    "gamma": 0.1096565189128103,
+    "tol": 0.0930844377161945,
+    "C": 3.620041916760818,
+    "epsilon": 0.14954686584240706
 }
 ```
 
